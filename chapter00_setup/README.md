@@ -73,19 +73,19 @@ sudo apt-get install -y docker-ce docker-ce-cli containerd.io
 hostsファイルには、この演習を通して利用するIPアドレスとドメインの紐付けを設定してください。YOUR_VM_IP_ADDRESSはこの演習で利用するマシンのIPアドレスを指定してください。
 
 ```
-YOUR_VM_IP_ADDRESS    app.vmXX.handson.cloudnativedays.jp
-YOUR_VM_IP_ADDRESS    prometheus.vmXX.handson.cloudnativedays.jp
-YOUR_VM_IP_ADDRESS    grafana.vmXX.handson.cloudnativedays.jp
-YOUR_VM_IP_ADDRESS    jaeger.vmXX.handson.cloudnativedays.jp
-YOUR_VM_IP_ADDRESS    argocd.vmXX.handson.cloudnativedays.jp
-YOUR_VM_IP_ADDRESS    app.argocd.vmXX.handson.cloudnativedays.jp
-YOUR_VM_IP_ADDRESS    dev.kustomize.argocd.vmXX.handson.cloudnativedays.jp
-YOUR_VM_IP_ADDRESS    prd.kustomize.argocd.vmXX.handson.cloudnativedays.jp
-YOUR_VM_IP_ADDRESS    helm.argocd.vmXX.handson.cloudnativedays.jp
-YOUR_VM_IP_ADDRESS    app-preview.argocd.vmXX.handson.cloudnativedays.jp
-YOUR_VM_IP_ADDRESS    kiali.vmXX.handson.cloudnativedays.jp
-YOUR_VM_IP_ADDRESS    app.cilium.vmXX.handson.cloudnativedays.jp
-YOUR_VM_IP_ADDRESS    hubble.cilium.vmXX.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    app.vm41.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    prometheus.vm41.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    grafana.vm41.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    jaeger.vm41.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    argocd.vm41.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    app.argocd.vm41.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    dev.kustomize.argocd.vm41.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    prd.kustomize.argocd.vm41.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    helm.argocd.vm41.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    app-preview.argocd.vm41.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    kiali.vm41.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    app.cilium.vm41.handson.cloudnativedays.jp
+YOUR_VM_IP_ADDRESS    hubble.cilium.vm41.handson.cloudnativedays.jp
 ```
 
 ## リポジトリのClone
